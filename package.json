@@ -51,9 +51,9 @@
     "jest": "24.1.0",
     "@types/jest": "24.0.9",
     "ts-jest": "24.0.0",
-    "@nrwl/node": "^8.4.13",
+    "@nrwl/node": "^15.4.2",
     "@nestjs/schematics": "^6.4.4",
     "@nestjs/testing": "^6.6.7",
-    "@nrwl/nest": "^8.4.13"
+    "@nrwl/nest": "^15.4.2"
   }
 }
